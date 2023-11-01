@@ -6,3 +6,7 @@ function feature2(){
     // comment
     alert('from feature 2.');
 }
+
+function feature3(){
+    alert('from feature 3.');
+}
